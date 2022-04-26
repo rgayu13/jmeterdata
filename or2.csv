@@ -1,8 +1,0 @@
-#group,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
-#datatype,string,long,dateTime:RFC3339,double,string,string
-#default,mean,,,,,
-,result,table,_time,_value,_field,_measurement
-2,2022-04-19T13:06:40Z,2549,OK,https://www.planittesting.com/us/home
-3,2022-04-19T13:06:40Z,1169,MovedPermanently,https://www.planittesting.com/
-4,2022-04-19T13:06:40Z,1379,OK,https://www.planittesting.com/us/home
-5,2022-04-19T13:06:40Z,0,OK,null
