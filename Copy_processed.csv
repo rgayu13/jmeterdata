@@ -1,8 +1,0 @@
-#group,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
-#datatype,string,long,dateTime:RFC3339,double,string,double,string,string,string,string,string,double,double,double,double,string,double,double,double
-#default,mean,,,,,,,,,,,,,,,,,,
-,result,table,_time,_measurement,_field,_value,status,_field,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,_field,Latency,IdleTime,Connect
-,,2,2022-04-19T12:20:38Z,2549,HTTPRequest,200,OK,ThreadGroup1-1,text,TRUE,,263745,253,1,1,https://www.planittesting.com/us/home,1168,0,891
-,,3,2022-04-19T12:20:38Z,1169,HTTPRequest-0,301,MovedPermanently,ThreadGroup1-1,text,TRUE,,716,123,1,1,https://www.planittesting.com/,1168,0,891
-,,4,2022-04-19T12:20:40Z,1379,HTTPRequest-1,200,OK,ThreadGroup1-1,text,TRUE,,263029,130,1,1,https://www.planittesting.com/us/home,539,0,0
-,,5,2022-04-19T12:20:41Z,0,DebugSampler,200,OK,ThreadGroup1-1,text,TRUE,,283,0,1,1,null,0,0,0
