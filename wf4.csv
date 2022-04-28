@@ -1,0 +1,8 @@
+#group,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE
+#datatype,string,long,dateTime:RFC3339,double,double,double,double,string,double
+#default,mean,,,,,,,,
+,result,table,_time,_value,status,bytes,sentBytes,_field,Latency
+,,2,2022-04-28T13:46:40Z,3696,200,267719,372,https://www.planittesting.com/us/home,1142
+,,3,2022-04-28T13:46:40Z,1142,301,377,119,https://planittesting.com/,1142
+,,4,2022-04-28T13:46:40Z,1161,301,716,123,https://www.planittesting.com/,1161
+,,5,2022-04-28T13:46:40Z,1392,200,266626,130,https://www.planittesting.com/us/home,542
