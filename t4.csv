@@ -1,0 +1,5 @@
+#group,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+#datatype,string,long,dateTime:RFC3339,double,string,double,ignore,ignore,string,string,string,double,double,double,double,string,string,double,ignore,double,double,ignore,double,double
+#default,mean,,,,,,,,,,,,,,,,,,,,,,,
+,result,table,_time,_value,_measurement,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,_field,Filename,Latency,Encoding,SampleCount,ErrorCount,Hostname,IdleTime,Connect
+,,2,2022-04-28T10:10:12Z,296,API-AreaAvailability-Postcodes,200,"Numberofsamplesintransaction:3,numberoffailingsamples:0",ThreadGroup-RegisterNewuserForSubscriptionAPI2-1,,TRUE,,2579,960,1,6,null,,0,ISO-8859-1,1,0,PL-UK-MP23H9XX,1,82
